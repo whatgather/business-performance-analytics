@@ -1,5 +1,4 @@
-# business-performance-analytics
-Business Performance Analytics
+# Business Performance Analytics
 
 An interactive Power BI dashboard project focused on uncovering patterns in sales performance, profitability, customer segments, and discount behavior using retail business data.
 
